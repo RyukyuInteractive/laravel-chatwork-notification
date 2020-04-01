@@ -23,7 +23,7 @@ This package makes it easy to send Chatwork messages using [Chatwork API](http:/
 You can install the package via composer:
 
 ``` bash
-composer require ryukyuinteractive/laravel-chatwork-notificationstions
+composer require ryukyuinteractive/laravel-chatwork-notifications
 ```
 
 You must install the service provider:
